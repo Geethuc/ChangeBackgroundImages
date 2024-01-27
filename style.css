@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#btn{
+    width: 200px;
+    height: 50px;
+    background-color:black;
+    border: none;
+    color: white;
+    font-weight: 700;
+    
+}
+#backgroundElement {
+   width: 300px;
+   height: 300px;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+
+
+
+
+
+
